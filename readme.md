@@ -1,7 +1,8 @@
 # git
 
 ## 美女
-	![美女](http://www.wwtliu.com/sxtstu/php/lm1.jpg)
+	[iwen](www.wwtliu.com)
+	![](http://www.wwtliu.com/sxtstu/php/lm1.jpg)
 
 ### 版本控制器
 	* 集中式：SVN
